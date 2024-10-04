@@ -1,0 +1,16 @@
+.body{
+    background-color: lightblue;
+}
+h1 {
+    text-align: center;
+}
+.goku{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: auto;
+}
+.encabezado{
+    background-image: url('fondo.jpg');
+}
